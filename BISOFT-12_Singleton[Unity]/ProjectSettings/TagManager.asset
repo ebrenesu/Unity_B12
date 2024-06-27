@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fondo
+  - Piso
+  - NPC
+  - Elemento Interaccion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Fondo
+  - NPC
+  - Personaje
+  - Elementos Interaccion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 4215541463
+    locked: 0
+  - name: Ground
+    uniqueID: 2126657857
+    locked: 0
+  - name: NPC
+    uniqueID: 2676648443
+    locked: 0
+  - name: Personaje
+    uniqueID: 679626661
+    locked: 0
+  - name: Elementos Interaccion
+    uniqueID: 836667395
+    locked: 0
